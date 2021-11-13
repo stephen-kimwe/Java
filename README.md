@@ -1,2 +1,2 @@
 # Java
-IT projects 1
+100DaysOfJava 
