@@ -1,0 +1,15 @@
+/**
+ * java method that accepts a number,  	
+ * sums its digits and returns the sum.
+ * E.g. if the number 234 is entered the method will return 9.
+ */
+import java.util.Scanner;
+public class SumDigits{
+  public static void main(String[] args){
+  Scanner in = new Scanner(System.in);
+      System.out.print("Input an integer: ");
+      int digits = in.nextInt();
+	  System.out.println("The sum is " + sumDigits(digits));
+
+  }
+  }
